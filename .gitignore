@@ -1,0 +1,5 @@
+.env
+api_keys.ipynb
+.ipynb_checkpoints/
+*.md
+__pycache__/
